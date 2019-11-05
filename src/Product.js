@@ -9,6 +9,7 @@ function Product(props) {
         <p className="product-price">{props.price}</p>
       </div>
     )
+    
   }
 
   export default Product;

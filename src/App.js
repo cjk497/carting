@@ -3,6 +3,7 @@ import './App.css';
 import { tsPropertySignature } from '@babel/types';
 import Product from './Product';
 
+
 let shoppingCartItems = [
   {
     item: 'War and Peace',
