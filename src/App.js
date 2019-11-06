@@ -40,7 +40,7 @@ let shoppingCartItems = [
 function App() {
   return (
     <div className="App">
-      <h1>Your Shopping Cart</h1>
+      <h1>MarsBao</h1>
      <SearchForm />
      <ShoppingCart />
     </div>
